@@ -9,6 +9,7 @@ def main():
         print("2. Remover tarefa")
         print("3. Listar tarefas")
         print("4. Sair")
+        print("5.Limpar tarefas")
         choice = input("Escolha uma opção: ")
 
         if choice == "1":
