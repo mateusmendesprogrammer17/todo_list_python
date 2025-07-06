@@ -3,7 +3,7 @@
 
 def main():
     tasks = []
-
+    print("Bem-vindo ao gerenciador de tarefas!")
     while True:
         print("\n1. Adicionar tarefa")
         print("2. Remover tarefa")
